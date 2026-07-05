@@ -69,3 +69,5 @@
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.pdb
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.genruntimeconfig.cache
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/ref/OrderService.Api.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Prometheus.NetStandard.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Prometheus.AspNetCore.dll

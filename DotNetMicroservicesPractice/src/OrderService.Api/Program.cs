@@ -1,4 +1,5 @@
 using OrderService.Api.Messaging;
+using Prometheus;
 using StackExchange.Redis;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,6 +25,10 @@ app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 
+app.UseHttpMetrics();
+
 app.MapControllers();
+
+app.MapMetrics();
 
 app.Run();

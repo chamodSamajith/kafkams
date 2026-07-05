@@ -70,3 +70,5 @@
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/bin/Debug/net9.0/Prometheus.NetStandard.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/bin/Debug/net9.0/Prometheus.AspNetCore.dll

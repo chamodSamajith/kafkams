@@ -1,3 +1,5 @@
+using Prometheus;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services
@@ -6,6 +8,10 @@ builder.Services
 
 var app = builder.Build();
 
+app.UseHttpMetrics();
+
 app.MapReverseProxy();
+
+app.MapMetrics();
 
 app.Run();

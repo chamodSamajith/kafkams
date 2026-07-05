@@ -7,12 +7,14 @@
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/OrderService.Api.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/OrderService.Api.pdb
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Confluent.Kafka.dll
-/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/RESPite.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/StackExchange.Redis.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/System.Diagnostics.DiagnosticSource.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/System.IO.Hashing.dll
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/bin/Debug/net9.0/System.IO.Pipelines.dll
@@ -52,6 +54,7 @@
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.csproj.CoreCompileInputs.cache
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.MvcApplicationPartsAssemblyInfo.cs
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.sourcelink.json
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/rjimswa.dswa.cache.json
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
@@ -66,4 +69,3 @@
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.pdb
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.genruntimeconfig.cache
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/ref/OrderService.Api.dll
-/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/OrderService.Api/obj/Debug/net9.0/OrderService.Api.sourcelink.json

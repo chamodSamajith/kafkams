@@ -52,6 +52,7 @@
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.csproj.CoreCompileInputs.cache
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.MvcApplicationPartsAssemblyInfo.cs
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.sourcelink.json
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/rjimswa.dswa.cache.json
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
@@ -66,4 +67,3 @@
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.pdb
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.genruntimeconfig.cache
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/ref/InventoryService.Api.dll
-/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.sourcelink.json

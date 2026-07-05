@@ -67,3 +67,6 @@
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.pdb
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/InventoryService.Api.genruntimeconfig.cache
 /Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/obj/Debug/net9.0/ref/InventoryService.Api.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll

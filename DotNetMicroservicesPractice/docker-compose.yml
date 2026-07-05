@@ -1,0 +1,12 @@
+services:
+  kafka:
+    image: apache/kafka:4.1.2
+    container_name: practice-kafka
+    ports:
+      - "9092:9092"
+
+  redis:
+    image: redis:7
+    container_name: practice-redis
+    ports:
+      - "6379:6379"

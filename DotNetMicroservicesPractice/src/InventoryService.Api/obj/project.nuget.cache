@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhaiuHNUY6U=",
+  "success": true,
+  "projectFilePath": "/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/InventoryService.Api/InventoryService.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/chamodrathnayake/.nuget/packages/confluent.kafka/2.15.0/confluent.kafka.2.15.0.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/librdkafka.redist/2.15.0/librdkafka.redist.2.15.0.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.5/microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.5/microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/respite/3.0.11/respite.3.0.11.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/stackexchange.redis/3.0.11/stackexchange.redis.3.0.11.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/system.diagnostics.diagnosticsource/10.0.5/system.diagnostics.diagnosticsource.10.0.5.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/system.io.hashing/10.0.5/system.io.hashing.10.0.5.nupkg.sha512",
+    "/Users/chamodrathnayake/.nuget/packages/system.io.pipelines/10.0.5/system.io.pipelines.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

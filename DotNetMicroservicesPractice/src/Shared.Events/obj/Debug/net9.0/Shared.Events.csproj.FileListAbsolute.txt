@@ -1,0 +1,11 @@
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/bin/Debug/net9.0/Shared.Events.deps.json
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/bin/Debug/net9.0/Shared.Events.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/bin/Debug/net9.0/Shared.Events.pdb
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/obj/Debug/net9.0/Shared.Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/obj/Debug/net9.0/Shared.Events.AssemblyInfoInputs.cache
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/obj/Debug/net9.0/Shared.Events.AssemblyInfo.cs
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/obj/Debug/net9.0/Shared.Events.csproj.CoreCompileInputs.cache
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/obj/Debug/net9.0/Shared.Events.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/obj/Debug/net9.0/refint/Shared.Events.dll
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/obj/Debug/net9.0/Shared.Events.pdb
+/Users/chamodrathnayake/Documents/Projects/Test/kafkams/DotNetMicroservicesPractice/src/Shared.Events/obj/Debug/net9.0/ref/Shared.Events.dll

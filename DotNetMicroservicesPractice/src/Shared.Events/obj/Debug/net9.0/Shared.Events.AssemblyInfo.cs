@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shared.Events")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17588b3564c50c1d0fa69b51513dcadaf6e9592b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b4589bc68e1e8cba9507a67508e372eb1ae2c2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shared.Events")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shared.Events")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
